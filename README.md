@@ -75,7 +75,6 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 ---
 
-
 ### ER Diagram
 
 ![er_diagram](https://github.com/Ramaseshu0/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/6e59ff1f-a12e-4ab3-a480-05a29eac3d69)
@@ -86,8 +85,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 ## Full Report
 
-For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights Report](https://github.com/Ramaseshu0/US-Healthcare-Analytics-PowerBI-Insights/blob/main/docs/project_synopsis.docx).
-
+For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dynamics Insights Report](https://github.com/AjayReddy999/us-healthcare-analysis-powerbi/blob/main/docs/project_synopsis.docx).
 
 <p align="left">
   <a href="https://youtu.be/PVvWitwDRGg?si=fe24BF-klaIVt9Ys">
@@ -101,7 +99,7 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Ramaseshu0/US-Healthcare-Analytics-PowerBI-Insights.git
+   git clone https://github.com/AjayReddy999/us-healthcare-analysis-powerbi
    ```
 
 2. **Open the Power BI file:**
@@ -116,14 +114,13 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
 
 ## Contribution
 
-Find issues, suggest enhancements, or contribute to the project by opening an [issue](https://github.com/Ramaseshu0/US-Healthcare-Analytics-PowerBI-Insights/issues) or submitting a [pull request](https://github.com/Ramaseshu0/US-Healthcare-Analytics-PowerBI-Insights/pulls).
+Find issues, suggest enhancements, or contribute to the project by opening an [issue](https://github.com/AjayReddy999/us-healthcare-analysis-powerbi/issues) or submitting a [pull request](https://github.com/AjayReddy999/us-healthcare-analysis-powerbi/pulls).
 
 ---
 
+[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/AjayReddy999/us-healthcare-analysis-powerbi/blob/main/LICENSE)
 
-[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/Ramaseshu0/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
-
-This PowerBI-driven initiative is maintained by Chinmaya Sri Rama Seshu Pasupuleti and is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
+This PowerBI-driven initiative is is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
 
 ---
 
@@ -152,15 +149,3 @@ The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensi
 ### Closing Remarks
 
 This project underscores the importance of leveraging data analytics in the healthcare sector. Offering detailed insights into various facets of the industry empowers stakeholders to make data-driven decisions, ultimately enhancing the quality of care and operational efficiency. The U.S. Healthcare Industry Dynamics project stands as a testament to the transformative power of data in understanding and improving the healthcare landscape.
-
----
-
-## Maintainer
-
-**Chinmaya Sri Rama Seshu Pasupuleti**
-Data Engineer with experience in building enterprise data pipelines, cloud-based ETL/ELT workflows, and analytical data platforms. Specializing in Python, SQL, and distributed data processing to drive actionable business intelligence.
-
-**Contact Information:**
-- **Email:** pramaseshu@outlook.com
-- **GitHub:** [Ramaseshu0](https://github.com/Ramaseshu0)
-- **LinkedIn:** [Rama Seshu](https://www.linkedin.com/in/rama-seshu/)
